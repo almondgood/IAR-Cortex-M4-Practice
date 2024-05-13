@@ -1,0 +1,14 @@
+# ninja log v5
+1	91	7338150042164190	C:/Users/USER/Documents/IAR/sample/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	e2894b3655a613c3
+59	112	7338150042324189	C:/Users/USER/Documents/IAR/sample/Debug/Obj/COMM/stm32f4xx_it.o	2da32dada03b41d1
+59	112	7338150042324189	C:/Users/USER/Documents/IAR/sample/Debug/Obj/.COMM/stm32f4xx_it.o	2da32dada03b41d1
+69	124	7338150042454191	C:/Users/USER/Documents/IAR/sample/Debug/Obj/main.o	d7d93363d87bff3
+62	211	7338150043304274	C:/Users/USER/Documents/IAR/sample/Debug/Obj/COMM/system_stm32f4xx.o	138a44cd75fce8d0
+62	211	7338150043304274	C:/Users/USER/Documents/IAR/sample/Debug/Obj/.COMM/system_stm32f4xx.o	138a44cd75fce8d0
+65	219	7338150043354232	C:/Users/USER/Documents/IAR/sample/Debug/Obj/STM32/stm32f4xx_gpio.o	a1b066ccc62d0889
+67	262	7338150043804249	C:/Users/USER/Documents/IAR/sample/Debug/Obj/STM32/stm32f4xx_rcc.o	aaa566062b4ab1fc
+1	45	7338150128665184	C:/Users/USER/Documents/IAR/sample/Debug/Obj/COMM/stm32f4xx_it.o	d3ba4725a9b73d9e
+6	46	7338150128665184	C:/Users/USER/Documents/IAR/sample/Debug/Obj/main.o	d7d93363d87bff3
+4	124	7338150129445250	C:/Users/USER/Documents/IAR/sample/Debug/Obj/COMM/system_stm32f4xx.o	62b90551e5dc7904
+126	219	7338150130413669	C:/Users/USER/Documents/IAR/sample/Debug/Exe/sample.out	1fb5dc7e59990718
+221	259	7338150130859990	C:/Users/USER/Documents/IAR/sample/Debug/Exe/sample.hex	6f65f1ba7c6f0d2e

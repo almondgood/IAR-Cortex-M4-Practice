@@ -1,0 +1,486 @@
+# ninja log v5
+153	273	7340019846845100	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	c5de7e155fa85b0c
+53	182	7339977910000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	175d1154a68bc91a
+1	164	7340052220000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart4.xcl	305f23d20b131560
+140	317	7339810063067474	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/uart2.pbi	61a00133480c1424
+135	195	7339810061993085	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	ff5cb84f80aa26e6
+47	185	7339977910000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	498dcf7c10428b01
+146	268	7340019846791235	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	d7d1084570bace1d
+1	97	7339835303681700	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/main.pbi	83b68b3634ceea1d
+43	171	7339977910000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/STM32/misc.xcl	d68b8795fe0ecc3d
+10	154	7339810060000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/STM32/misc.xcl	b939244ed6ab1792
+101	159	7340017188444430	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	264a263c80bb490f
+130	291	7339810062933682	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	3e2051bce3b29540
+34	143	7340019840000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	c5b0e9518a6ab4d9
+225	693	7340017193460631	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	2a92be8f88741c40
+156	219	7339835304910036	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	2e201aa81930481
+323	450	7340047168633448	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	f7e0fe2ca6a4a60f
+100	141	7340060775653347	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	e7c16dda1c9758cc
+172	284	7339977917268620	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/STM32/misc.pbi	454f31ae7d34cdd5
+293	371	7339810063757393	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part0.pbi	cdf04c7940419cb3
+315	394	7339810063994072	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part1.pbi	1a217cef9e20154b
+140	271	7339977917123860	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	8bc48cc3c07eb802
+7	108	7339810060000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	c2c90629de4c2e82
+1	100	7340017187858689	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/main.pbi	d99f1d7b26810235
+108	314	7339810063043229	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	fb1c6c8250564d61
+5	129	7339810060000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	382820f204cdcaf9
+141	260	7340019846710263	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/STM32/misc.pbi	e69705784400eea9
+8	132	7339810060000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/main.xcl	622b70fb4b4dbe95
+40	146	7340019840000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	12a9c1a79722e9d3
+3	135	7339810060000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	949c8f581be90f7e
+12	137	7339810060000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	d3f3339368a2f82a
+14	140	7339810060000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/uart2.xcl	cfd822023ba85cee
+1	142	7339810060000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	8b9a0e9f2f0c9ee0
+285	366	7340019847774484	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part1.pbi	3b2474eb1e244b36
+142	288	7339810062897758	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	dae9d69639eaf12e
+138	291	7339810062933682	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	412f26c42012d423
+41	151	7339977910000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/uart2.xcl	cdf4d2017a0e2a35
+155	292	7339810062933682	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/STM32/misc.pbi	535436ae3fdd2102
+27	149	7339977910000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	ee6b1ef28134fb84
+98	155	7339835304270656	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	7e8faa6e8367c516
+186	311	7339977917531583	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	b2d6bdbe5cff5850
+220	660	7339835309089039	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	71d90588dc234c06
+36	187	7340019840000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/main.xcl	93ed03f9d19fada6
+1	92	7340023295239125	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/uart2.pbi	46e78f983570324b
+38	139	7339977910000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	2041794b9c876122
+164	284	7340019846954532	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	fcc425fa61576ceb
+45	157	7339977910000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/main.xcl	5060f92379838e49
+49	159	7339977910000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	9e0583aa2dbb0712
+31	141	7340019840000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/STM32/misc.xcl	b1a3838b0a7688d8
+149	178	7339977916188257	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	fb1cfb7ebe1b4d74
+152	274	7339977917154218	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/uart2.pbi	71969596d41ccc49
+139	168	7340019845792162	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	d478512a8226abb
+159	280	7339977917199176	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	f93fbfccd8efdb66
+183	306	7339977917482766	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	b37fe0895b0b286a
+285	355	7339977917969091	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part0.pbi	dcbd4f50f98e0c67
+312	390	7339977918325850	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part1.pbi	a11c8022678bb526
+26	138	7340019840000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	bf6946ff72daacf8
+159	224	7340017189095592	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	fcab354a23181771
+89	165	7340031861885620	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	fabb595077fd1f8f
+43	148	7340019840000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/uart2.xcl	6240124f1d0fefca
+29	153	7340019840000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	682ee5c4be683d83
+38	164	7340019840000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	7432c4975d016f76
+144	259	7340019846698552	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	77e43f920cf4b185
+12	111	7340030644458893	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/main.pbi	2ed663e710422dbb
+274	333	7340019847443149	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part0.pbi	171c95fec47efa8c
+166	232	7340031862561488	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	17de264d7fb1c8bd
+233	675	7340031866775675	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	34e139d136c4de3e
+1	73	7340030640000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/fnd.xcl	f74cb3704ada1369
+1	92	7340062671317843	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+1	87	7340031861101064	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split/Debug/BrowseInfo/fnd.pbi	fb17b8fbd610280d
+48	232	7340047160000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	7bb96171175db899
+28	234	7340047160000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	375cbb4058538b6c
+62	254	7340047160000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.xcl	6c7d6b2b5d145a81
+59	257	7340047160000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	f83c31f1adffbf24
+53	260	7340047160000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.xcl	7365e90e4d88b8cb
+55	263	7340047160000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/fnd.xcl	8c3e58555eeda1a9
+57	266	7340047160000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	25f70c79d8391783
+50	268	7340047160000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/misc.xcl	d019554cea4cbd1e
+255	294	7340047167090087	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	52b7951d2f653ac2
+232	322	7340047160000000	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	d1dffc1cb7964bed
+1	94	7340059025037911	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/fnd.pbi	76f1aa35a9c14ce
+269	395	7340047168092751	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/misc.pbi	2f2b53c13930bdfe
+258	396	7340047168092751	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	52918f867a76e641
+266	404	7340047168219274	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	cd3a1faa6967d2f0
+1	94	7340062505577311	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	b9a9651b5b54a8c4
+235	480	7340047168996213	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	d231e9bc9385001a
+481	554	7340047169735368	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part0.pbi	5ad52c32b6d43212
+451	567	7340047169875539	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part1.pbi	c7c48690457649e1
+93	176	7340062672109817	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+178	266	7340062673064546	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+268	732	7340062677463368	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	99	7340060775200633	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart4.pbi	8f2c3746f7e8a4fe
+1	95	7340062729152325	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+96	175	7340062729940716	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+177	267	7340062730899485	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+269	755	7340062735309916	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	89	7340062787200327	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+91	170	7340062788145628	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+171	266	7340062789087687	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+268	716	7340062793339931	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+2	98	7340062845172444	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+100	184	7340062845960104	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+186	274	7340062846905038	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+277	731	7340062851305245	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	88	7340062902711334	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	b9a9651b5b54a8c4
+90	170	7340062903500209	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+172	261	7340062904439365	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+264	728	7340062908976945	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	94	7340062960652334	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	b9a9651b5b54a8c4
+95	175	7340062961589463	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+178	266	7340062962378519	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+268	727	7340062966771875	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	199	7340063019447302	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	b9a9651b5b54a8c4
+200	279	7340063020147840	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+281	370	7340063021088076	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+374	825	7340063025509646	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+2	91	7340063077323954	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	b9a9651b5b54a8c4
+92	173	7340063078119302	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+175	260	7340063078901182	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+263	712	7340063083329946	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	231	7340063136389253	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	b9a9651b5b54a8c4
+233	313	7340063137296724	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+315	404	7340063138084038	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+406	862	7340063142502309	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	86	7340063193933886	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	b9a9651b5b54a8c4
+88	165	7340063194718067	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+167	251	7340063195663817	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+254	706	7340063200062272	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+0	94	7340063251626995	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+96	176	7340063252410540	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+178	262	7340063253195452	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+264	716	7340063257585079	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	100	7340063309236628	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+100	188	7340063310073995	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+190	276	7340063311019285	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+280	732	7340063315395929	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	87	7340063367527100	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	b9a9651b5b54a8c4
+3	93	7340063367552697	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+94	173	7340063368348414	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+175	264	7340063369301861	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+267	721	7340063373676633	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	106	7340063425579156	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+107	189	7340063426416153	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+190	278	7340063427278527	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+280	740	7340063431718540	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	96	7340063483264194	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+97	183	7340063484039120	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+185	274	7340063484998664	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+276	741	7340063489419951	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	104	7340063541175671	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+105	184	7340063542117032	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+186	269	7340063542902072	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+272	719	7340063547266476	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	93	7340063598713299	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+97	177	7340063599680129	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+179	268	7340063600451041	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+270	719	7340063604873568	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	201	7340063657483228	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+202	288	7340063658320917	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+291	381	7340063659281091	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+382	852	7340063663798092	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	91	7340063715150699	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+94	171	7340063715933049	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+173	260	7340063716876449	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+262	710	7340063721208596	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	97	7340063772929127	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+98	178	7340063773718451	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+181	267	7340063774510415	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+269	731	7340063779088106	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	98	7340063880745973	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+99	184	7340063881734334	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+185	281	7340063882644804	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+282	741	7340063887087503	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	96	7340063938727109	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+97	178	7340063939589589	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+180	265	7340063940462004	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+268	723	7340063944827482	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	217	7340064047940772	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+219	298	7340064048724409	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+302	387	7340064049686757	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+389	891	7340064054428631	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	228	7340064107419169	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+230	314	7340064108289823	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+316	404	7340064109196702	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+407	864	7340064113587553	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	96	7340064165399433	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+100	178	7340064166183544	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+180	266	7340064166977311	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+270	725	7340064171409206	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	98	7340064324086293	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+100	184	7340064324919601	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+185	275	7340064325857610	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+277	738	7340064330111203	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	94	7340064381849126	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+96	175	7340064382611761	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+178	264	7340064383563398	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+266	737	7340064388104128	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	95	7340064439683096	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+97	174	7340064440571757	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+177	260	7340064441456736	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+262	716	7340064445826395	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+0	95	7340064497433628	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+98	177	7340064498251617	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	3edebc84b9fac22b
+179	264	7340064499073806	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	452d658dfdad6ccf
+265	789	7340064504103853	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	396cf1cfe0e3bff1
+1	98	7340064656524558	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+1	96	7340064708378519	C:/Users/user/Documents/iar/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	af46195f7541e75b
+43	152	7340088640000000	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	2285ef61ca96d4b7
+36	167	7340088640000000	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/misc.xcl	5e234352378f14f4
+38	171	7340088640000000	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	9a43d41dbe1f3d23
+46	178	7340088640000000	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.xcl	c713c85024cd2edf
+33	181	7340088640000000	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	9d3a88ea7af087
+41	184	7340088640000000	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	c2af9ce8c06df502
+49	188	7340088640000000	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart4.xcl	29672df339f72715
+51	191	7340088640000000	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.xcl	2cb1e621230f10f8
+153	246	7340088640000000	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	7a1b92ada5b27446
+168	265	7340088640000000	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/fnd.xcl	b09ff2ed296d8c47
+172	319	7340088645902040	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/misc.pbi	25093c658bf71966
+188	323	7340088645921546	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	25a942836e6fb630
+179	333	7340088646048441	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	17e6c0af51a3dd02
+182	340	7340088646107007	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	b0165fa631a51afa
+185	341	7340088646107007	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	9b275c6e0e6232b9
+192	355	7340088646268571	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart4.pbi	de502ff13ce0253f
+247	394	7340088646649190	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	ce8d664e3017c100
+265	408	7340088646805346	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	d0cfe61a9554f316
+356	416	7340088646883446	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	da09f77d13bc8f58
+342	433	7340088647059159	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part0.pbi	d417ef1120347d91
+324	444	7340088647156746	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	64c3967402e70eef
+320	445	7340088647166503	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/fnd.pbi	269579d54ed1adf2
+395	506	7340088647787071	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part1.pbi	5c3f1dea62f09d58
+445	536	7340088648089670	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	bf72174dc97280d5
+538	646	7340088649194343	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	bf96c95b3c9834b8
+648	1185	7340088654364707	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	5df32f823ef79072
+3	95	7340088906494370	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	64c3967402e70eef
+0	98	7340088906513937	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart4.pbi	de502ff13ce0253f
+99	143	7340088906992596	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	da09f77d13bc8f58
+96	184	7340088907392760	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	bf72174dc97280d5
+185	277	7340088908325740	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	bf96c95b3c9834b8
+278	750	7340088912875232	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	5df32f823ef79072
+1	97	7340088964352759	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	d0cfe61a9554f316
+97	185	7340088965248580	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	bf72174dc97280d5
+187	287	7340088966260106	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	bf96c95b3c9834b8
+288	790	7340088971080303	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	5df32f823ef79072
+0	97	7340089373690022	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	d0cfe61a9554f316
+99	187	7340089374594209	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	bf72174dc97280d5
+188	287	7340089375607093	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	bf96c95b3c9834b8
+290	807	7340089380584840	C:/Users/Aiot22/Documents/IAR/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	5df32f823ef79072
+58	292	7340114290000000	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	ba5c8d5344b43262
+119	306	7340114290000000	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart4.xcl	84daf9cdbe94d937
+88	320	7340114290000000	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/fnd.xcl	7447731b6c94f5e7
+109	333	7340114290000000	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.xcl	12998526cffbc404
+99	344	7340114290000000	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.xcl	48d2b7712dceb353
+78	358	7340114290000000	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	bdda74368ec04b95
+304	374	7340114290756892	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	fd455ddce0a565ca
+318	650	7340114293396583	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart4.pbi	13c1a1cf2595b261
+331	737	7340114294240599	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/fnd.pbi	70c541c503b9aaf3
+342	818	7340114294844288	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	a9d35f9e433a5151
+372	984	7340114296708727	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	df2b44bc156b402f
+356	1022	7340114296998656	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/main.pbi	aafa4b84cac66634
+821	1760	7340114304396691	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	6fcc855d0baa35f2
+986	1855	7340114305234608	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part0.pbi	851795b8fdadca53
+1026	1969	7340114306493956	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part1.pbi	67ab7d859a25b56b
+1971	2726	7340114314125215	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	7297f7e0c849c6c4
+2730	4383	7340114329028180	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	d669ae4e719fe5ad
+66	389	7340114488922567	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart2.pbi	a9d35f9e433a5151
+64	568	7340114490703317	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/uart4.pbi	13c1a1cf2595b261
+573	1122	7340114496197847	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	6fcc855d0baa35f2
+1124	1830	7340114503333247	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	7297f7e0c849c6c4
+1835	3529	7340114518769375	//10.10.14.66/samba/12-3_usart2_pa2_pa3_fnd_pc_split - 복사본/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	d669ae4e719fe5ad
+35	140	7342532680000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/misc.xcl	dbe195baf3874029
+37	148	7342532680000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	91b6e8d8d68aa830
+40	152	7342532680000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	613006b21bf82e0b
+44	154	7342532680000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	2c8a255b9001bbb9
+42	157	7342532680000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.xcl	1203595b598dedc1
+47	160	7342532680000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/fnd.xcl	6f5529e8332150c9
+50	163	7342532680000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	6d63790f7aed65ee
+31	177	7342532680000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	5b4b6d143a55d04d
+141	217	7342532680000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/uart4.xcl	afc1ac5d59be3433
+152	224	7342532680000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/uart2.xcl	5dd599f7f2cf8ea4
+155	274	7342532687681697	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/misc.pbi	31093b49e9d852db
+149	279	7342532687740295	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	fe9b61b0023cedfe
+158	283	7342532687779361	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+163	284	7342532687789120	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	82d7aa7a1ee11c87
+217	334	7342532688282403	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/uart4.pbi	29471608c93994e7
+225	348	7342532688438650	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/uart2.pbi	110d8e978285df06
+161	375	7342532688712065	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	3ae078b3abba13a3
+334	377	7342532688712065	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	d7a3545437ae403c
+275	392	7342532688878137	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	75eec96b74570990
+178	396	7342532688917126	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	84a43cb062d506e9
+280	399	7342532688936657	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/fnd.pbi	72b88879a16a2ef4
+397	459	7342532689549429	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part0.pbi	a14edfb099c05246
+393	472	7342532689676405	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part1.pbi	55bba97dc82ab96e
+400	481	7342532689774206	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	e5c40183f6992c74
+482	559	7342532690552226	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+561	1028	7342532695031988	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	207	7342535207049494	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+208	286	7342535207856247	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	e5c40183f6992c74
+287	361	7342535208600996	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+363	829	7342535213071412	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+2	73	7342537150000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	8dfb914d8747ab63
+7	115	7342537151699202	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/misc.pbi	31093b49e9d852db
+5	133	7342537151865197	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	84a43cb062d506e9
+11	136	7342537151874950	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	75eec96b74570990
+13	140	7342537151914027	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/fnd.pbi	72b88879a16a2ef4
+9	141	7342537151923789	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+74	180	7342537152340325	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	5bd7659251385397
+137	196	7342537152507867	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part0.pbi	a14edfb099c05246
+15	219	7342537152732551	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	82d7aa7a1ee11c87
+17	223	7342537152771517	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	3ae078b3abba13a3
+220	299	7342537153543720	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part1.pbi	331a5bd0b0b4b2af
+224	303	7342537153582477	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	e5651399afc6ad3e
+116	318	7342537153729220	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/uart2.pbi	110d8e978285df06
+134	333	7342537153876524	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/uart4.pbi	29471608c93994e7
+334	386	7342537154410694	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	59d06922403c1c2
+388	464	7342537155184627	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+465	927	7342537159619325	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	124	7342538917984734	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/misc.pbi	31093b49e9d852db
+9	142	7342538918150714	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	82d7aa7a1ee11c87
+4	145	7342538918189802	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	84a43cb062d506e9
+5	150	7342538918189802	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	75eec96b74570990
+12	151	7342538918199537	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	3ae078b3abba13a3
+14	152	7342538918228856	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	5bd7659251385397
+11	155	7342538918253779	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+7	157	7342538918292845	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/fnd.pbi	72b88879a16a2ef4
+147	209	7342538918839693	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part0.pbi	a14edfb099c05246
+153	234	7342538919093562	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part1.pbi	331a5bd0b0b4b2af
+125	239	7342538919132625	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/uart4.pbi	29471608c93994e7
+158	240	7342538919142393	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	e5651399afc6ad3e
+143	251	7342538919255509	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/uart2.pbi	110d8e978285df06
+252	308	7342538919833670	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	59d06922403c1c2
+309	386	7342538920612032	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+388	855	7342538925082761	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	66	7342546670000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	4696d55aa8c7f7a8
+4	122	7342546673387082	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+123	207	7342546674246789	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+67	273	7342546674887186	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	63bffe48cb2f3e94
+273	360	7342546675763789	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	18d0b645d3fdc3de
+361	448	7342546676649765	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+449	931	7342546681249925	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+2	103	7342547184601981	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+105	183	7342547185398745	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+185	264	7342547186216773	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+265	723	7342547190592807	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+2	105	7342547442968880	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+107	179	7342547443707170	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+181	256	7342547444475567	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+258	722	7342547448929455	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	111	7342547701350089	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+112	190	7342547702152530	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+191	281	7342547703062074	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+1	460	7342547760510799	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	108	7342548916290018	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+110	188	7342548917103952	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+189	270	7342548917915572	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+271	735	7342548922360167	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	207	7342549577372255	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+209	281	7342549578111086	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+283	357	7342549578882190	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+359	813	7342549583227789	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	114	7342550337616149	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+115	196	7342550338441479	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+197	278	7342550339257450	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+279	770	7342550343968467	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	206	7342553257514391	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+208	283	7342553258295356	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+285	364	7342553259097975	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+365	826	7342553263500305	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+2	111	7342554268798105	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+112	194	7342554269634680	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+196	278	7342554270460196	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+1	459	7342554326435901	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+2	103	7342554829617028	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+105	180	7342554830390992	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+181	260	7342554831188990	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+261	743	7342554835815291	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	107	7342556945364116	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+108	184	7342556946138630	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+185	261	7342556946912733	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+263	729	7342556951379830	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	115	7342557806228351	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+116	195	7342557807029677	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+196	277	7342557807844900	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+278	764	7342557812468833	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	114	7342558267859634	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+116	194	7342558268656386	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+196	278	7342558269492790	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+279	738	7342558273894607	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	109	7342558476128189	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+110	187	7342558476913611	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+188	263	7342558477680280	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+265	719	7342558482020126	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+2	107	7342558884966293	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+108	185	7342558885748552	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+186	266	7342558886554324	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+267	740	7342558891041245	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+2	102	7342559444603507	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+103	177	7342559445338124	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+178	253	7342559446105832	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+255	709	7342559450461693	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	108	7342560355344102	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+109	186	7342560356120202	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+188	270	7342560356970581	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+271	742	7342560361487207	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	101	7342560814589775	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+102	182	7342560815396766	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+184	260	7342560816174928	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+262	718	7342560820560431	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	102	7342562929984636	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+104	177	7342562930732727	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+179	257	7342562931537985	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+258	717	7342562935926900	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	109	7342563941281388	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+109	188	7342563942077154	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+189	272	7342563942917837	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+273	733	7342563947330793	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	101	7342564199646537	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+103	175	7342564200385927	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+177	254	7342564201183277	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+256	712	7342564205534806	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	110	7342564558355780	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+111	190	7342564559157162	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+191	273	7342564559988283	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+274	742	7342564564468252	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+2	198	7342569485578800	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/fnd.pbi	72b88879a16a2ef4
+200	276	7342569486359740	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	18d0b645d3fdc3de
+277	356	7342569487157022	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+358	811	7342569491505448	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	195	7342569945536718	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/fnd.pbi	72b88879a16a2ef4
+197	268	7342569946262032	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	18d0b645d3fdc3de
+270	345	7342569947030973	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+346	812	7342569951460463	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	107	7342575474574876	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+108	184	7342575475352138	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+185	266	7342575476167149	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+267	734	7342575480626178	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	107	7342578945315395	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+108	190	7342578946150655	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+191	274	7342578946996153	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+274	750	7342578951535866	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	106	7342582064993811	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+107	183	7342582065770824	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+185	266	7342582066601718	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+268	743	7342582071136285	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+4	203	7342586992452209	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/fnd.pbi	72b88879a16a2ef4
+1	208	7342586992500812	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+205	282	7342586993243175	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	18d0b645d3fdc3de
+210	285	7342586993272242	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+286	361	7342586994038818	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+363	814	7342586998362685	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+2	102	7342590161917236	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/fnd.pbi	72b88879a16a2ef4
+4	108	7342590161985359	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+104	180	7342590162709410	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	18d0b645d3fdc3de
+109	185	7342590162758149	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+186	261	7342590163518075	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+263	714	7342590167846953	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+2	102	7342590420739134	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+103	176	7342590421488485	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+178	254	7342590422263681	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+255	712	7342590426632285	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+4	101	7342591130742159	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/fnd.pbi	72b88879a16a2ef4
+1	106	7342591130790759	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+103	180	7342591131537437	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	18d0b645d3fdc3de
+108	185	7342591131595979	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+186	264	7342591132374421	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+266	757	7342591137100393	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	103	7342599169609438	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+105	179	7342599170361341	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+181	258	7342599171149738	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+260	723	7342599175607662	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+1	109	7342599948557300	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+110	185	7342599949311212	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	12764587620c706d
+186	261	7342599950075512	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+263	714	7342599954398366	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+40	104	7342604323920996	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part3.pbi	d7a3545437ae403c
+63	169	7342604324570975	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part0.pbi	fd8cac5670f03b73
+2	185	7342604320000000	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/key.xcl	b0c204adf86a705c
+61	191	7342604324791450	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part1.pbi	a2eaf82bdb4fb121
+22	193	7342604324801233	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+185	290	7342604325773499	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/key.pbi	e068194c9bc981fd
+292	398	7342604326860357	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	1cdd47af18307628
+399	480	7342604327680027	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+481	1024	7342604332903094	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
+2	105	7342604735882722	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/main.pbi	cdbcd0d163407853
+106	198	7342604736823671	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3_part2.pbi	1cdd47af18307628
+200	277	7342604737597159	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbd	5bd6e8bbb2c3165c
+278	730	7342604741936290	C:/Users/USER/Documents/IAR/12-1_usart2_pa2_pa3_fnd_pc_split_exti/Debug/BrowseInfo/12-3_usart2_pa2_pa3.pbw	4b162642188c4a5
